@@ -1,0 +1,2 @@
+# triggers build of the local dependency during environment setup
+./probe_pkg
